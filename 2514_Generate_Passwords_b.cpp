@@ -1,4 +1,4 @@
-//十分简单的模拟.
+//十分简单的模拟
 #include <iostream>
 #include <algorithm>
 #include <cstdio>
